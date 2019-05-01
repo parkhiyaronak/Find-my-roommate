@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556406538227_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=todolist-web-springmvc/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-core/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-core/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-common/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-common/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-servlet-jsp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-struts/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-struts/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-tapestry/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=todolist-web-tapestry/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556406538469_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=todolist-core/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556406713541_3" label="todolist-mvc" name="todolist-mvc">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-mvc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-web-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-web-tapestry" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-web-struts" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/todolist-web-servlet-jsp" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556406636384_2" label="Window Working Set" name="Aggregate for window 1556406636384"/>
+</workingSetManager>

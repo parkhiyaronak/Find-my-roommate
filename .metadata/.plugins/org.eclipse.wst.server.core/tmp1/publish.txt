@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Apr 27 19:28:19 EDT 2019
+org.eclipse.jst.j2ee.server\:todolist-web-common=WEB-INF/lib/todolist-web-common-1.0-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:todolist-core=WEB-INF/lib/todolist-core-1.0-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\parkh\\.m2\\repository\\org\\springframework\\spring-web\\3.2.6.RELEASE\\spring-web-3.2.6.RELEASE.jar=WEB-INF/lib/spring-web-3.2.6.RELEASE.jar

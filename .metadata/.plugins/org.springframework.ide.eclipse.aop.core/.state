@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="todolist-web-common"/>
+<aop-project name="todolist-core"/>
+<aop-project name="todolist-web-tapestry"/>
+<aop-project name="todolist-web-struts"/>
+<aop-project name="todolist-web-springmvc"/>
+<aop-project name="todolist-web-servlet-jsp"/>
+</aop-reference-model>

@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\589521826.index
+\todolist-web-struts\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3510388313.index
+\todolist-web-springmvc\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3881674664.index
+\todolist-web-struts\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2770818411.index
+\todolist-web-servlet-jsp\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3994262784.index
+\todolist-web-springmvc\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\111224496.index
+\todolist-web-springmvc\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1800764807.index
+\todolist-web-servlet-jsp\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\817940289.index
+\todolist-web-struts\src\main\java
+C:\Users\parkh\Documents\workspace-sts-3.9.8.RELEASE\FindMyRoommate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3167231342.index
+\todolist-web-servlet-jsp\src\main\java
